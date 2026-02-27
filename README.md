@@ -8,7 +8,6 @@ It parses Ethernet, IPv4, TCP and UDP headers.
 ### 1. Clone the repository
 
 ```
-bash
 git clone https://github.com/seu-usuario/cnet.git
 cd cnet
 ```
