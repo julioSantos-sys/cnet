@@ -9,15 +9,19 @@ It parses Ethernet, IPv4, TCP and UDP headers.
 
 ```
 git clone https://github.com/julioSantos-sys/cnet.git
+```
+
+### 2. Walk to cnet directory
+```
 cd cnet
 ```
 
-### 2. Run the makefile
+### 3. Run the makefile with root
 
 ```
-make install
+sudo make install
 ```
-### 3. Run the cnet with root
+### 4. Run the cnet with root
 
 ```
 sudo cnet
